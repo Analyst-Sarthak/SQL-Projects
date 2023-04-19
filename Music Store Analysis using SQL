@@ -1,3 +1,6 @@
+Datase:- https://github.com/Analyst-Sarthak/SQL-Projects/blob/1ee904a946902dc14632e76fea2a6831359b2b9a/Music_Store_database.sql
+
+
 #1 Who is senior most employee based on job Title?
 
     select first_name, last_name from employee
